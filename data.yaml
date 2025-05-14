@@ -1,0 +1,6 @@
+path: "."  # caminho raiz
+train: images/train
+val: images/val
+nc: 7  # número de classes
+names: ['fish', 'jellyfish', 'penguin', 'puffin', 'shark', 'starfish', 'stingray'] # nomes das classes
+
